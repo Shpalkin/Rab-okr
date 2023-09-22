@@ -1,0 +1,31 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shpalkin/Rab-okr.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Shpalkina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shpalkin/Rab-okr/issues"
+  },
+  "homepage": "https://github.com/Shpalkin/Rab-okr#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.19",
+    "@babel/preset-env": "^7.22.15"
+  },
+  "dependencies": {
+    "core-js": "^3.32.2"
+  }
+}
