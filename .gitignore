@@ -2,8 +2,11 @@
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
 doc
+
+
+# Folder
+dist
 
 # Logs
 logs
